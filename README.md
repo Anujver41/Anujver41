@@ -1,4 +1,3 @@
-````md
 <p align="center">
   <a href="https://github.com/Anujver41">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Anuj+Verma" alt="Anuj Verma" />
@@ -24,9 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/ServiceNow_CSA-81B441?style=flat-square&logo=servicenow&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/ServiceNow_CSA-81B441?style=flat-square&logo=servicenow&logoColor=white" />
 </p>
 
 ---
@@ -50,9 +47,9 @@ cert      : ServiceNow Certified System Administrator
 
 | Project | Stack | About |
 |----------|---------|---------|
-| [Workshop & Certification Tracker](https://github.com/Anujver41) | React · Spring Boot · MySQL · REST APIs | Full-stack student platform with ATS score analysis, certificate generation, workshop tracking, admin dashboard, and career guidance |
-| [Research Assistant Chrome Extension](https://github.com/Anujver41) | Spring Boot · Gemini API · JavaScript | AI-powered Chrome extension for webpage summarization, keyword extraction, and summary history management |
-| [CampusFlow 360](https://github.com/Anujver41) | ServiceNow · Flow Designer · Business Rules · Script Includes · Notifications | University management platform for admissions, approvals, workflows, role management, notifications, student services, and automation |
+| Workshop & Certification Tracker | React · Spring Boot · MySQL · REST APIs | Full-stack student platform with ATS score analysis, certificate generation, workshop tracking, admin dashboard, and career guidance |
+| Research Assistant Chrome Extension | Spring Boot · Gemini API · JavaScript | AI-powered Chrome extension for webpage summarization, keyword extraction, and summary history management |
+| CampusFlow 360 | ServiceNow · Flow Designer · Business Rules · Script Includes · Notifications | University management platform for admissions, approvals, workflows, role management, notifications, student services, and automation |
 
 ---
 
@@ -134,7 +131,7 @@ Software Engineer Intern — HackerRank
 
 ```text
 Platform
-LeetCode · GeeksforGeeks · HackerRank · Codolio
+LeetCode · GeeksforGeeks · HackerRank · CodeChef
 
 Solved
 1000+ DSA Problems
@@ -142,7 +139,8 @@ Solved
 Achievements
 700+ LeetCode Problems Solved
 1000+ GeeksforGeeks Coding Score
-Top 30 Rank — Parul University (GeeksforGeeks)
+Top 20 Rank — Parul University (GeeksforGeeks)
+5★ Java — HackerRank
 
 Topics
 Arrays · Strings · Linked Lists
@@ -175,4 +173,3 @@ Stacks · Queues
     Java Backend Developer · Spring Boot Enthusiast · ServiceNow CSA Certified
   </sub>
 </p>
-````
