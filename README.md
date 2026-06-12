@@ -7,7 +7,7 @@
 
 <!-- Animated Subtitle -->
 <a href="https://github.com/Anujver41">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+System+Design;1000%2B+DSA+Problems+Solved;ServiceNow+Certified+System+Administrator;Building+Scalable+REST+APIs" alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+System+Design;1100%2B+DSA+Problems+Solved;ServiceNow+Certified+System+Administrator;Building+Scalable+REST+APIs" alt="subtitle" />
 </a>
 
 <br/>
