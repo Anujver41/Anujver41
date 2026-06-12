@@ -1,24 +1,125 @@
-# 💫 About Me:
-Hi, I'm **Anuj Verma** 👨‍💻  <br>A passionate **B.Tech CSE student** who loves solving problems and building backend systems.<br><br>🚀 I'm currently working on  <br>- Strengthening **Data Structures & Algorithms** (LeetCode + GFG)  <br>- Building **Java Backend projects** using Spring Boot  <br>- Improving system design & problem-solving skills  <br><br>🤝 I'm looking to collaborate on  <br>- Backend development projects  <br>- Open-source contributions  <br>- Java / Spring Boot based applications  <br><br>🧠 I'm currently learning  <br>- **Spring Boot**, REST APIs & backend architecture  <br>- Advanced **Java concepts**  <br>- Database design & optimization  <br><br>💬 Ask me about  <br>- Java, DSA, LeetCode strategies  <br>- Backend development basics  <br>- Competitive programming & consistency tips  <br><br>⚡ Fun fact  <br>- I enjoy maintaining coding streaks and learning something new every day!<br>
+<p align="center">
+  <a href="https://github.com/Anujver41">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Anuj+Verma" alt="Anuj Verma" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Anujver41">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&width=700&lines=Java+%2F+Spring+Boot+%2F+Backend+Development;Placement+Cell+Coordinator+%E2%80%94+Parul+University;1000%2B+DSA+Problems+Solved;5%E2%98%85+Java+Badge+%E2%80%94+HackerRank" alt="subtitle" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jatanujverma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-verma-91360b297) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatanujverma@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anujver41&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anujver41&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujver41&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anujver41&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/anuj-verma-91360b297"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/Anujver41"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:jatanujverma@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/ServiceNow_CSA-81B441?style=flat-square&logo=servicenow&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anujver41&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+name     : Anuj Verma
+degree   : B.Tech Computer Science Engineering
+semester : 6th Semester
+location : Vadodara, Gujarat, India
+role     : Placement Cell Coordinator — Parul University
+cert     : ServiceNow Certified System Administrator
+leetcode : 700+ problems solved
+dsa      : 1000+ DSA problems solved
+badge    : 5★ Java — HackerRank
+cgpa     : 8.05
+```
+
+---
+
+### Experience
+
+**Placement Cell Coordinator — Parul University**
+
+Coordinating placement activities, managing communication between students and recruiters, organizing placement drives, and working with cross-functional teams to improve placement opportunities and student engagement.
+
+---
+
+### Projects
+
+| | Stack | About |
+|---|---|---|
+| [Workshop & Certification Tracker](https://github.com/Anujver41) | React · Spring Boot · MySQL · REST API | Full-stack student platform with ATS score analysis, certificate generation, workshop tracking, admin dashboard, and career guidance |
+| [Research Assistant Chrome Extension](https://github.com/Anujver41) | Spring Boot · Gemini API · JavaScript | Chrome extension for AI-powered webpage summarization, keyword extraction, and summary history management |
+| [CampusFlow 360](https://github.com/Anujver41) | Spring Boot · React · MySQL · JWT | University management platform for admissions, role approvals, workflows, notifications, and student services |
+
+---
+
+### Skills
+
+```text
+Languages
+Java · JavaScript · Python · SQL
+
+Backend
+Spring Boot · Spring MVC · Spring Data JPA · Hibernate
+JDBC · Servlets · REST APIs · WebSocket
+Spring Security · JWT Authentication
+Keycloak · Microservices
+
+Frontend
+React · HTML · CSS · JSP · Thymeleaf
+
+Databases
+MySQL · PostgreSQL · Redis
+
+DevOps & Tools
+Git · GitHub · Docker · Maven
+Kafka · Postman · VS Code
+IntelliJ IDEA · Lombok
+
+Testing
+JUnit · Unit Testing
+
+Core CS
+OOP · DBMS · Operating Systems
+Computer Networks · System Design
+Recursion · Backtracking
+
+ServiceNow
+Flows · Business Rules · Script Includes
+Import Sets · Transform Maps
+Events · Notifications
+Catalog Items · Workflows
+```
+
+---
+
+### DSA
+
+```text
+Platform    LeetCode / GeeksforGeeks / HackerRank / Codolio
+
+Solved      1000+ DSA Problems
+
+Achievements
+700+ LeetCode Problems Solved
+5★ Java Badge — HackerRank
+Top Ranker on GeeksforGeeks — Parul University
+
+Topics
+Arrays · Strings · Linked Lists · Trees
+Graphs · Dynamic Programming
+Recursion · Backtracking
+Hashing · Heaps
+Binary Search · Sliding Window
+Stacks · Queues
+```
+
+---
+
+<p align="center">
+  <sub>
+    Vadodara, Gujarat · Java Backend Developer · Spring Boot Enthusiast · Placement Cell Coordinator
+  </sub>
+</p>
