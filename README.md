@@ -5,7 +5,7 @@
 
 <!-- Animated Subtitle Typing -->
 <a href="https://github.com/Anujver41">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+System+Design;1100%2B+DSA+Problems+Solved;ServiceNow+Certified+System+Administrator;Building+Scalable+REST+APIs" alt="subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&duration=2800&pause=1200&color=8B949E&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+System+Design;1100%2B+DSA+Problems+Solved;ServiceNow+Certified+System+Administrator;ServiceNow+Certified+Application+Developer;Building+Scalable+REST+APIs" alt="subtitle" />
 </a>
 
 <br/>
@@ -24,7 +24,11 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
+   <a href="https://drive.google.com/file/d/1ZjZgue10vaUvkpv6wXKqfrFEIDaLUrBt/view?usp=sharing">
   <img src="https://img.shields.io/badge/ServiceNow_CSA-81B441?style=flat-square&logo=servicenow&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ServiceNow_CAD-81B441?style=flat-square&logo=servicenow&logoColor=white"/>
+  </a>
 </p>
 
 <!-- Animated metrics banner -->
@@ -291,6 +295,11 @@ leadership: Placement Cell Coordinator  —  Parul University
 <img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/><br/>
 <sub><b>Certified System Administrator</b></sub><br/>
 <sub>CSA</sub>
+</td>
+<td align="center" width="220">
+<img src="https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white"/><br/>
+<sub><b>Certified Application Developer</b></sub><br/>
+<sub>CAD</sub>
 </td>
 <td align="center" width="220">
 <a href="https://www.geeksforgeeks.org/certificate/cf50ef8c0d88b8cf5e13216c8d26114d">
